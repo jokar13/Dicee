@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         rollButton = findViewById(R.id.rollButton);
         leftImage = findViewById(R.id.image_leftDice);
         rightImage = findViewById(R.id.image_rightDice);
-        
+
 // TODO : create array to hold image files
         final int[] diceArray = {R.drawable.dice1,
                 R.drawable.dice2,
